@@ -3,4 +3,4 @@
 # Give command npm install for both server and client
 # npm run
 # Enjoy
-# Teach other people
+# Share with others
