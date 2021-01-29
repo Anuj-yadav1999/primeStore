@@ -1,0 +1,39 @@
+.outer_form {
+    margin-left: 20%;
+    margin-top: 8%;
+    display: flex;
+    background-color: white;
+    margin-top: 10%;
+    }
+    
+    .right_form {
+        margin-left: 10px;
+        padding-bottom: 5%;
+        padding-top: 5%;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color:burlywood;
+        border-radius: 8%;
+    }
+    
+    .left_form {
+        padding-right: 10px;
+        padding-top: 5%;
+        padding-left: 10px;
+        padding-bottom: 5%;
+        background-color: aquamarine;
+        border-radius: 8%;
+    }  
+    
+    .middle_div{
+        border-left: 6px solid black;
+        height: 300px;
+        margin-left: 6%;
+        margin-right: 6%;
+    }
+
+    .covering{
+        padding-top: 1%;
+        padding-bottom: 9%;
+        background-color: white;
+    }
